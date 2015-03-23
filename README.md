@@ -5,7 +5,7 @@ MeteorBB会保留Telescope的大部分特性，并定制化为对中文开发者
 
 # 名字起源
 
-MeteorBB是用来致敬NodeBB的，不过目前的解读是：** No Meteor No BB **  ，也很酷。
+MeteorBB是用来致敬NodeBB的，不过目前的解读是：`No Meteor No BB ` ，也很酷。
 
 
 
@@ -15,7 +15,7 @@ MeteorBB尚处于开发过程，欢迎感兴趣的朋友一同参与，任何建
 
 
 
-## 演示网址 [www.meteorbb.com](https/meteorbb.meteor.com)
+## 演示网址 [www.meteorbb.com](https//meteorbb.meteor.com)
 
 
 

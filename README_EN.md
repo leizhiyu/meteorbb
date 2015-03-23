@@ -4,7 +4,7 @@ MeteorBB is based on [Telescope](https://github.com/TelescopeJS/Telescope),We fi
 
 # WHAT'S MEAN OF MeteorBB
 
-MeteorBB is a tribute to NodeBB ,but now our slogan is ** No Meteor No BB **  ,cool!
+MeteorBB is a tribute to NodeBB ,but now our slogan is ` No Meteor No BB `  ,cool!
 
 
 
@@ -15,7 +15,7 @@ MeteorBB is developing ,Any contribute is welcome, you can post question and iss
 
 
 
-## DEMO [www.meteorbb.com](https/meteorbb.meteor.com)
+## DEMO [www.meteorbb.com](https//meteorbb.meteor.com)
 
 
 
